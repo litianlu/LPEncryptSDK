@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "61307174-b544-1341-a738-7ee69ee5a8b8++2054",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "61307174-b544-1341-a738-7ee69ee5a8b8++2054" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "61307174-b544-1341-a738-7ee69ee5a8b8++2054" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7FF37B4A-6C21-48D4-B5BE-52B4379B5F4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "61307174-b544-1341-a738-7ee69ee5a8b8++2054" : "DaCangFundOpenAPI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DaCangFundOpenAPI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DaCangFundOpenAPI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.141\/svn\/fund",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "61307174-b544-1341-a738-7ee69ee5a8b8++2054"
+    }
+  ]
+}
